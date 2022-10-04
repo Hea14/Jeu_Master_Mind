@@ -8,6 +8,7 @@ public class MasterMind {
     private String codeSecret = "";
     private int nbColorTrue = 0;
     private int nbColorOrder = 0;
+    // on nesaie un truc bidon
     
     
     public void nbCouleurInvalid() {
