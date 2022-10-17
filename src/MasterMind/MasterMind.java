@@ -2,6 +2,7 @@
 package MasterMind;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 
 public class MasterMind {
